@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
   love = "I LOVE YOU GRANDMA!"
   uppercase_phrase = phrase.upcase
   if phrase == love
-    return love
+    love
   end
   
   elsif uppercase_phrase == phrase
