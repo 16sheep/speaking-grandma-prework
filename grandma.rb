@@ -8,7 +8,7 @@ def speak_to_grandma(phrase)
   end
   
   elsif uppercase_phrase == phrase
-    return "NO, NOT SINCE 1938!"
+    "NO, NOT SINCE 1938!"
   end
   
   else
