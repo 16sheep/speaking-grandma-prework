@@ -6,9 +6,11 @@ def speak_to_grandma(phrase)
   if phrase == love
     return love
   end
+  
   elsif uppercase_phrase == phrase
     return "NO, NOT SINCE 1938!"
   end
+  
   else
     return "HUH?! SPEAK UP, SONNY!"
   end
